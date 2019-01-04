@@ -1,24 +1,24 @@
-# README
+# ROR-2
+### Description
+To make a ruby on rails application through following the guide document and apply the CRUD method to the application which was based on an article blog site
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Languages used
+* Ruby
+* HTML
+* Javascript
 
-Things you may want to cover:
+### How to download
+1. Go onto the Github website
+2. Search for the repository called shahak1995/ror-2
+3. Click on the link
+4. On the right hand side of the page click the download button
 
-* Ruby version
+### Challenges (you can include images and code block here)
+1. Spelling the file names correctly
+2. Putting the code into the controllers
+3. Spelling the classes correctly
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Learning points
+1. Make sure that the file names are spelt correctly
+2. Make sure that the classes are spelt correctly
+3. Make sure that all of the CRUD operations in the view controller are in order
